@@ -1,0 +1,15 @@
+com/example/questionbank/application/QuestionServiceTest.class
+com/example/questionbank/support/InMemoryQuizRepository.class
+com/example/questionbank/domain/model/QuestionLifecycleTest.class
+com/example/questionbank/domain/repository/QuestionRepositoryContractTest.class
+com/example/questionbank/support/DatabaseCleaner.class
+com/example/questionbank/application/QuizServiceIntegrationTest.class
+com/example/questionbank/support/InMemoryQuestionRepository.class
+com/example/questionbank/api/QuestionApiIntegrationTest.class
+com/example/questionbank/support/InMemoryCompetencyRepository.class
+com/example/questionbank/infrastructure/jpa/QuestionRepositoryJpaTest.class
+com/example/questionbank/domain/repository/InMemoryQuestionRepositoryContractTest.class
+com/example/questionbank/domain/repository/JpaQuestionRepositoryContractTest.class
+com/example/questionbank/support/InMemoryUserRepository.class
+com/example/questionbank/support/InMemoryTopicRepository.class
+com/example/questionbank/application/QuizServiceTest.class
