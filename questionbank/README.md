@@ -221,18 +221,6 @@ Cubren:
 - Cuestionarios solo con preguntas `PUBLISHED`, con fakes y de extremo a extremo.
 - Endpoints y códigos HTTP con `MockMvc`.
 
-## Diagramas
-
-El código PlantUML está en `../diagramas_plantuml.txt` y los PNG en `../png/`:
-
-- `04_qb_domain_class.png` — diagrama de clases UML del dominio.
-- `05_qb_relational.png` — modelo relacional con PK, FK y UNIQUE.
-- `06_qb_jpa_records.png` — records JPA, lados propietario e inverso.
-- `07_qb_architecture.png` — paquetes y reglas de dependencia.
-- `08_qb_question_lifecycle.png` — estados de la pregunta.
-- `09_qb_sequence_submit_review.png` — secuencia de envío a revisión.
-- `10_qb_sequence_create_quiz.png` — secuencia de creación del cuestionario.
-
 ## Decisiones de alcance
 
 - Se implementan `User`, `Competency`, `Topic`, `Question`, `MultipleChoiceQuestion`,
